@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5204190f.css",
+    "main.js": "/static/js/main.4000b8b4.js",
+    "static/media/me-about.jpeg": "/static/media/me-about.b5b54343e9f33e02a449.jpeg",
+    "static/media/me.jpeg": "/static/media/me.a922a107248527f52451.jpeg",
+    "static/media/cv.pdf": "/static/media/cv.ea4df4cfa346d143e4ba.pdf",
+    "static/media/football-no-lines.png": "/static/media/football-no-lines.af2e751b7224e4c5624b.png",
+    "index.html": "/index.html",
+    "main.5204190f.css.map": "/static/css/main.5204190f.css.map",
+    "main.4000b8b4.js.map": "/static/js/main.4000b8b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5204190f.css",
+    "static/js/main.4000b8b4.js"
+  ]
+}
